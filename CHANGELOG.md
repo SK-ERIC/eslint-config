@@ -1,5 +1,12 @@
 # Changelog
 
+## [v0.0.7](https://github.com/SK-ERIC/eslint-config/compare/v0.0.6...v0.0.7) (2023-11-29)
+
+### &nbsp;&nbsp;&nbsp;❤️ Contributors
+
+
+[SK-ERIC](mailto:graceful.sk0@gmail.com)
+
 ## [v0.0.6](https://github.com/SK-ERIC/eslint-config/compare/v0.0.5...v0.0.6) (2023-11-29)
 
 ### &nbsp;&nbsp;&nbsp;❤️ Contributors
