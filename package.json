@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-bitsy",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "bitsy eslint config for react and vue",
   "author": {
     "name": "SK-ERIC",
