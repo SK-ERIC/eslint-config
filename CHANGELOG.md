@@ -1,5 +1,12 @@
 # Changelog
 
+## [v0.0.8](https://github.com/SK-ERIC/eslint-config/compare/v0.0.7...v0.0.8) (2023-11-29)
+
+### &nbsp;&nbsp;&nbsp;❤️ Contributors
+
+
+[SK-ERIC](mailto:graceful.sk0@gmail.com)
+
 ## [v0.0.7](https://github.com/SK-ERIC/eslint-config/compare/v0.0.6...v0.0.7) (2023-11-29)
 
 ### &nbsp;&nbsp;&nbsp;❤️ Contributors
@@ -39,11 +46,11 @@
 
 ### &nbsp;&nbsp;&nbsp;🐞 Bug Fixes
 
-- **projects**: incorrectly referenced path &nbsp;-&nbsp; by **shikang** [<samp>(01f94)</samp>](https://github.com/SK-ERIC/eslint-config/commit/01f94ee)
+- **projects**: incorrectly referenced path &nbsp;-&nbsp; by **SK-ERIC** [<samp>(01f94)</samp>](https://github.com/SK-ERIC/eslint-config/commit/01f94ee)
 
 ### &nbsp;&nbsp;&nbsp;🏡 Chore
 
-- **deps**: locked version &nbsp;-&nbsp; by **shikang** [<samp>(4491e)</samp>](https://github.com/SK-ERIC/eslint-config/commit/4491e5c)
+- **deps**: locked version &nbsp;-&nbsp; by **SK-ERIC** [<samp>(4491e)</samp>](https://github.com/SK-ERIC/eslint-config/commit/4491e5c)
 
 ### &nbsp;&nbsp;&nbsp;❤️ Contributors
 
