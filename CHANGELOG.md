@@ -1,7 +1,7 @@
 # Changelog
 
 
-## [v0.0.2](https://github.com/SK-ERIC/eslint-config/compare/v0.0.2-beta.0...v0.0.2) (23-11-29)
+## [v0.0.2](https://github.com/SK-ERIC/eslint-config/compare/v0.0.2-beta.0...v0.0.2) (2023-11-29)
 
 ### &nbsp;&nbsp;&nbsp;🐞 Bug Fixes
 
@@ -15,8 +15,4 @@
 
 
 [shikang](mailto:shikang@cloudcsp.com)
-
-## [v0.0.2-beta.0](https://github.com/SK-ERIC/eslint-config/compare/...v0.0.2-beta.0) (23-11-28)
-
-### &nbsp;&nbsp;&nbsp;❤️ Contributors
 
