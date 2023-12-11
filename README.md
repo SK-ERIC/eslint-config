@@ -17,13 +17,13 @@ create config file `.eslintrc`
 
 ```json
 {
-  "extends": "bitsy"
+  "extends": "eslint-config-bitsy"
 }
 ```
 
-- bitsy: base config, lint JS, TS, JSON
-- bitsy/vue: extend base config, lint Vue3
-- bitsy/react: extend base config, lint React
+- `eslint-config-bitsy`: base config, lint JS, TS, JSON
+- `eslint-config-bitsy/vue`: extend base config, lint Vue3
+- `eslint-config-bitsy/react`: extend base config, lint React
 
 > please choose the suitable config for your project
 
